@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: petclinic
-          image: 514090833954.dkr.ecr.ap-northeast-3.amazonaws.com/user_02_fastcampus-repo:2bee34a305b53b7d64e73855da1cab97846a8525
+          image: 514090833954.dkr.ecr.ap-northeast-3.amazonaws.com/user_02_fastcampus-repo:48f233a79358aeee9b2e7e3488327c1667a55025
           ports:
             - containerPort: 8080
           resources:
